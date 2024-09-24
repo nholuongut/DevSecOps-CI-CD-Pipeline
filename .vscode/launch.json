@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringApplication<devsecops>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.project.SpringApplication",
+            "projectName": "devsecops",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
